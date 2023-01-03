@@ -1,16 +1,5 @@
 # wmt_calculator_app
+A Flutter simple calculator app.
+![calc](https://user-images.githubusercontent.com/72406927/210352032-d24ecd27-3b09-451d-a8f8-2d1b8a583132.PNG)
+![calc1](https://user-images.githubusercontent.com/72406927/210352052-cbed584e-dd22-4049-8aa8-4f8a1ca83ac4.PNG)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
